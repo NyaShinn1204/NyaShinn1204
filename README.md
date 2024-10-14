@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @NyaShinn1204 (nyanyakko)
 
-I am an student, Japan. 
+I am an student, Japan.  (中学生です)
 
 and I am Python Nerd User. :nerd_face:
 
